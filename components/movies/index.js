@@ -71,7 +71,6 @@ class MovieDetails extends Component {
                     <Content>
                       {Description}
                     </Content>
-                    <Redirection onClick={this.BackButtonWrapper}>Back To Home</Redirection>
                   </div>
                 </Grid>
               </DetailsSection>
